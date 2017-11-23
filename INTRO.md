@@ -24,13 +24,13 @@ Specific Objectives:
 
 The proposed project specifically aims the following:
 
-a.)To develop a system that will give detailed information of the students such as basic information, educational background and parent’s information.
+a.) To develop a system that will give detailed information of the students such as basic information, educational background and parent’s information.
 
-b.)To create a module that will track the student’s attendance such as absent and late.
+b.) To create a module that will track the student’s attendance such as absent and late.
 
-c.)To create a module that will track student’s penalties.
+c.) To create a module that will track student’s penalties.
 
-d.)To test and evaluate the effectiveness of the project study in terms of implementation.
+d.) To test and evaluate the effectiveness of the project study in terms of implementation.
 
 The system will give benefit to the university, especially guidance office because the system will provide a secure and an automated records keeping system for creating records. It will provide an up-to-date and accurate record of students and will resolve the possibility of losing the information because it has database. It will track students' offenses and attendance. The system will also offer easily retrieval of records and generates report such as student’s information, disciplinary action records and attendance monitoring sheet information. The system will give benefit to the faculty because it will give convenient in passing student attendance and it can easily track the student’s status regarding with their attendance. The system will give benefit to the students because it will provide sufficient information about the Guidance office such as their services and hierarchy and they’ll be aware of committing offense because they’ll receive a notification from the Guidance.
  
@@ -39,48 +39,49 @@ STATEMENT OF THE PROBLEM
 
 The Don Mariano Marcos Memorial State University-North La Union Campus, Guidance Office is currently using a manual operation in monitoring students’ activities and performance. To a large extent, the workload is very taxing to retrieve files, generating reports and track attendance and offense, and implements standards adhere from the student manual. Considering that these are the factors subjectively experienced by the guidance counselors, the researcher prompted to develop the Guidance Information and Monitoring System (GIMS) for better quality service. These problems need to be addressed promptly. Specifically, it should answer the following:
 
-a.)How to prevent losing of information of students' records?
+a.) How to prevent losing of information of students' records?
 
-b.)How to easily monitor the students' records especially attendance and offenses?
+b.) How to easily monitor the students' records especially attendance and offenses?
 
-c.)Will a paperless management system lessen the hassle and time consumption during work?
+c.) Will a paperless management system lessen the hassle and time consumption during work?
 
-d.)Is the current method in monitoring students' records consistent and reasonably convenient?
+d.) Is the current method in monitoring students' records consistent and reasonably convenient?
 
 
 SCOPE AND DELIMITATION
 
 This project study was proposed to automate the manual operation of Guidance office in monitoring students' records. The functions focus into the students’ information/profile, mission and vision of the school, rules and regulations based on the handbook, problems, and proposed solutions to problems.
 
-Scopes
+SCOPES
 
-a)Provides faculty accounts as end user.
+a) Provides faculty accounts as end user.
 
-b)Provides database for student’s information (personalinformation, educational background, and offenses andattendance).
+b) Provides database for student’s information (personalinformation, educational background, and offenses andattendance).
 
-c)Provides accessible information about Guidance services.
+c) Provides accessible information about Guidance services.
 
-d)Monitor the students' status such as no records,warning and dropped.
+d) Monitor the students' status such as no records,warning and dropped.
 
-e)Generate reports for offense/penalty records,absences/late per month, and student’s exit interview.
+e) Generate reports for offense/penalty records,absences/late per month, and student’s exit interview.
 
-f)Provides sending of notification in the student’s e-mail account.
+f) Provides sending of notification in the student’s e-mail account.
 
-g)Provides comment page for Guidance Personnel andfaculty.
+g) Provides comment page for Guidance Personnel andfaculty.
 
-h)Provides dashboard for Student’s records statistics.
+h) Provides dashboard for Student’s records statistics.
 
-Delimitations
 
-a)No access to students.
+DELIMITATIONS
 
-b)No prototype for electronic signature for the guidanceofficers.
+a) No access to students.
 
-c)Only authorized personnel (Guidance Center, Student Affairs and Services, Colleges department and faculty) will be allowed to use the system.
+b) No prototype for electronic signature for the guidanceofficers.
 
-d)Does not include registrar office.
+c) Only authorized personnel (Guidance Center, Student Affairs and Services, Colleges department and faculty) will be allowed to use the system.
 
-e)No capture of student’s picture.
+d) Does not include registrar office.
 
-f)Does not include time in Student’s attendance
+e) No capture of student’s picture.
+
+f) Does not include time in Student’s attendance
 
