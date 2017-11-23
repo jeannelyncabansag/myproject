@@ -34,8 +34,32 @@ The system will give benefit to the university, especially guidance office becau
 STATEMENT OF THE PROBLEM
 
 The Don Mariano Marcos Memorial State University-North La Union Campus, Guidance Office is currently using a manual operation in monitoring students’ activities and performance. To a large extent, the workload is very taxing to retrieve files, generating reports and track attendance and offense, and implements standards adhere from the student manual. Considering that these are the factors subjectively experienced by the guidance counselors, the researcher prompted to develop the Guidance Information and Monitoring System (GIMS) for better quality service. These problems need to be addressed promptly. Specifically, it should answer the following:
-
 a.)How to prevent losing of information of students' records?
 b.)How to easily monitor the students' records especially attendance and offenses?
 c.)Will a paperless management system lessen the hassle and time consumption during work?
 d.)Is the current method in monitoring students' records consistent and reasonably convenient?
+
+
+SCOPE AND DELIMITATION
+This project study was proposed to automate the manual operation of Guidance office in monitoring students' records. The functions focus into the students’ information/profile, mission and vision of the school, rules and regulations based on the handbook, problems, and proposed solutions to problems.
+
+Scopes
+
+a)Provides faculty accounts as end user.
+b)Provides database for student’s information (personalinformation, educational background, and offenses andattendance).
+c)Provides accessible information about Guidance services.
+d)Monitor the students' status such as no records,warning and dropped.
+e)Generate reports for offense/penalty records,absences/late per month, and student’s exit interview
+f)Provides sending of notification in the student’s e-mail account.
+g)Provides comment page for Guidance Personnel andfaculty.
+h)Provides dashboard for Student’s records statistics.
+
+Delimitations
+
+a)No access to students.
+b)No prototype for electronic signature for the guidanceofficers.
+c)Only authorized personnel (Guidance Center, Student Affairs and Services, Colleges department and faculty) will be allowed to use the system.
+d)Does not include registrar office.
+e)No capture of student’s picture.
+f)Does not include time in Student’s attendance
+
