@@ -1,5 +1,4 @@
-Guidance Information and Monitoring System for    
-Don Mariano Marcos Memorial State University-North La Union Campus
+Guidance Information and Monitoring System for Don Mariano Marcos Memorial State University-North La Union Campus
 
 INTRODUCTION
 
