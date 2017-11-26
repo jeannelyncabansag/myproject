@@ -49,34 +49,34 @@ This project study was proposed to automate the manual operation of Guidance off
 
 SCOPES
 
-a) Provides faculty accounts as end user.
+a.)Provides faculty accounts as end user.
 
-b) Provides database for student’s information (personalinformation, educational background, and offenses andattendance).
+b.)Provides database for student’s information (personal information, educational background, and offenses andattendance).
 
-c) Provides accessible information about Guidance services.
+c.)Provides accessible information about Guidance services.
 
-d) Monitor the students' status such as no records,warning and dropped.
+d.)Monitor the students' status such as no records,warning and dropped.
 
-e) Generate reports for offense/penalty records,absences/late per month, and student’s exit interview.
+e.)Generate reports for offense/penalty records,absences/late per month, and student’s exit interview.
 
-f) Provides sending of notification in the student’s e-mail account.
+f.)Provides sending of notification in the student’s e-mail account.
 
-g) Provides comment page for Guidance Personnel andfaculty.
+g.)Provides comment page for Guidance Personnel andfaculty.
 
-h) Provides dashboard for Student’s records statistics.
+h.)Provides dashboard for Student’s records statistics.
 
 
 DELIMITATIONS
 
-a) No access to students.
+a.)No access to students.
 
-b) No prototype for electronic signature for the guidanceofficers.
+b.)No prototype for electronic signature for the guidanceofficers.
 
-c) Only authorized personnel (Guidance Center, Student Affairs and Services, Colleges department and faculty) will be allowed to use the system.
+c.)Only authorized personnel (Guidance Center, Student Affairs and Services, Colleges/Institutes Faculties) will be allowed to use the system.
 
-d) Does not include registrar office.
+d.)Does not include registrar office.
 
-e) No capture of student’s picture.
+e.)No capture of student’s picture.
 
-f) Does not include time in Student’s attendance
+f.)Does not include time in Student’s attendance.
 
