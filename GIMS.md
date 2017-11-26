@@ -34,13 +34,13 @@ STATEMENT OF THE PROBLEM
 
 The Don Mariano Marcos Memorial State University-North La Union Campus, Guidance Office is currently using a manual operation in monitoring students’ activities and performance. To a large extent, the workload is very taxing to retrieve files, generating reports and track attendance and offense, and implements standards adhere from the student manual. Considering that these are the factors subjectively experienced by the guidance counselors, the researcher prompted to develop the Guidance Information and Monitoring System (GIMS) for better quality service. These problems need to be addressed promptly. Specifically, it should answer the following:
 
-a.) How to prevent losing of information of students' records?
+a.)How to prevent losing of information of students' records?
 
-b.) How to easily monitor the students' records especially attendance and offenses?
+b.)How to easily monitor the students' records especially attendance and offenses?
 
-c.) Will a paperless management system lessen the hassle and time consumption during work?
+c.)Will a paperless management system lessen the hassle and time consumption during work?
 
-d.) Is the current method in monitoring students' records consistent and reasonably convenient?
+d.)Is the current method in monitoring students' records consistent and reasonably convenient?
 
 
 SCOPE AND DELIMITATION
